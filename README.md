@@ -4,7 +4,7 @@ In this reposetory i will put project i did by my-self.
 As part of my thesis i impelemented, The paper named : **[F2DC: Android malware classification based on raw traffic and neural networks](<https://www.sciencedirect.com/science/article/abs/pii/S1389128622003632>)**
 
 
-# 🤖 Gemini Ebook Chatbot
+# 🤖 Gemini Chatbot
 
 A simple chatbot powered by **Google's Gemini Pro API**, designed to simulate an ebook customer service assistant. This project features a basic UI using Python, making it beginner-friendly and easy to customize.
 
