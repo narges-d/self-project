@@ -21,7 +21,7 @@ A simple chatbot powered by **Google's Gemini Pro API**, designed to simulate an
 
 ## 🚀 Demo
 
-![chatbot demo screenshot](demo.png)
+![chatbot demo screenshot]()
 
 ---
 
