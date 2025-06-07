@@ -11,7 +11,7 @@ A simple interactive web application for **text summarization** built using Hugg
 ### Requirements
 
 - Python 3.7+
-- Install dependencies:
+- Install dependencies
 
 ```bash
 pip install transformers torch gradio
