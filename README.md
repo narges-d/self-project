@@ -4,7 +4,7 @@ In this reposetory i will put project i did by my-self. Feel free to customize a
 1. RAG + Lang
 2. summerizer
 3. Gemini Chatbot
-4. 
+   
 # 📄 Document Question Answering Chatbot with RAG and LangChain
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system using **LangChain** that allows you to ask questions about the content of a PDF document. The system retrieves relevant information from the document and uses a Large Language Model (LLM) — such as Google Gemini via the `ChatGooglePalm` wrapper — to generate accurate, context-aware answers.
