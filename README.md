@@ -1,5 +1,8 @@
 # self-project
-In this reposetory i will put project i did by my-self. if like can learn and improve it for your self :)
+In this reposetory i will put project i did by my-self. Feel free to customize and extend this app as needed!:)
+#list of project:
+1. Gemini Chatbot
+2. summerizer
 
 # 🤖 Gemini Chatbot
 
@@ -32,4 +35,28 @@ A simple chatbot powered by **Google's Gemini Pro API**, designed to simulate an
 pip install google-generativeai
 # Optional for web UI:
 pip install gradio
+
+
+------------------------------------
+# Text Summarization App
+
+This is a simple interactive web application for **text summarization** built using Hugging Face Transformers and Gradio.
+
+## Features
+
+- Summarizes input text into a concise summary.
+- Uses the pre-trained `facebook/bart-large-cnn` model for high-quality summarization.
+- Interactive and easy-to-use web interface powered by Gradio.
+
+## Requirements
+
+- Python 3.7+
+- `transformers`
+- `torch`
+- `gradio`
+
+Install dependencies with:
+
+```bash
+pip install transformers torch gradio
 
