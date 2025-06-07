@@ -31,7 +31,7 @@ A simple chatbot powered by **Google's Gemini Pro API**, designed to simulate an
 - Google Generative AI API key (Gemini)
 - Install dependencies:
 
-```bash
+```
 pip install google-generativeai
 # Optional for web UI:
 pip install gradio
