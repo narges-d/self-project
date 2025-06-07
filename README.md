@@ -1,5 +1,7 @@
 # self-project
 In this reposetory i will put project i did by my-self. Feel free to customize and extend this app as needed!:)
+
+----
 #list of project:
 1. RAG + Lang
 2. summerizer
