@@ -6,32 +6,8 @@ In this reposetory i will put project i did by my-self. Feel free to customize a
 1. RAG + Lang
 2. summerizer
 3. Gemini Chatbot
+4. Face & Hand Detection
 
-
-# Face & Hand Detection with MediaPipe + OpenCV
-
-This project demonstrates **real-time face and hand detection** using [MediaPipe](https://mediapipe.dev) and OpenCV.  
-It works with your webcam and draws bounding boxes for faces and skeleton landmarks for hands.
-
----
-
-## ✨ Features
-- Detects multiple hands (up to 2 hands).
-- Tracks hand landmarks (fingertips, joints, etc.).
-- Detects human faces with bounding boxes.
-- Runs in **real-time** using webcam.
-
----
-
-## 🚀 Installation
-Clone this repo and install dependencies:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/face-hand-detection.git
-cd face-hand-detection
-pip install -r requirements.txt
-
-```
    
 # 📄 Document Question Answering Chatbot with RAG and LangChain
 
@@ -72,3 +48,28 @@ A simple chatbot powered by **Google's Gemini Pro API**, designed to simulate an
 - Lightweight UI using `Tkinter` (desktop GUI) or `Gradio` (web-based UI)
 - Clean and simple code structure
 - Open-source and easy to extend
+
+# Face & Hand Detection with MediaPipe + OpenCV
+
+This project demonstrates **real-time face and hand detection** using [MediaPipe](https://mediapipe.dev) and OpenCV.  
+It works with your webcam and draws bounding boxes for faces and skeleton landmarks for hands.
+
+---
+
+## ✨ Features
+- Detects multiple hands (up to 2 hands).
+- Tracks hand landmarks (fingertips, joints, etc.).
+- Detects human faces with bounding boxes.
+- Runs in **real-time** using webcam.
+
+---
+
+## 🚀 Installation
+Clone this repo and install dependencies:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/face-hand-detection.git
+cd face-hand-detection
+pip install -r requirements.txt
+
+```
